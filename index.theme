@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Panorama
+Comment=A truly elegant theme for MacawOS
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Panorama
+IconTheme=panorama-icons
+CursorTheme=DMZ-White
+ButtonLayout=close,minimize,maximize:
+X-Ubuntu-UseOverlayScrollbars=true
