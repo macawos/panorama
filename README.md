@@ -1,2 +1,2 @@
 # Panorama
-A truly elegant theme for Macaw
+Panorama is a contemporary and elegant desktop theme. 
